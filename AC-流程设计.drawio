@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T05:23:07.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Lq5LjDW__w49ZvBuPmUX" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T05:30:14.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EMzFc8TQxVuFPHoFE7aA" version="20.0.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1278" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -36,12 +36,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-11" value="提交任务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-11" value="算法、输入、提交任务" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-14" value="调度算法" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-14" value="算法、输入、参数" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="200" as="sourcePoint" />
           </mxGeometry>
@@ -52,13 +52,13 @@
             <mxPoint x="454" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3UpjQE0WH349lmBp04G-5" value="输出成果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="f3UpjQE0WH349lmBp04G-5" value="输出、日志" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.9;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="449.5" y="300.44000000000005" as="sourcePoint" />
             <mxPoint x="294" y="300.44000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f3UpjQE0WH349lmBp04G-6" value="展示成果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+        <mxCell id="f3UpjQE0WH349lmBp04G-6" value="成果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="289.5" y="340" as="sourcePoint" />
             <mxPoint x="130" y="340" as="targetPoint" />
